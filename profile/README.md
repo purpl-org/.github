@@ -9,7 +9,7 @@ We mostly work on vector and vector related projects, however we may work on som
 
 ## purplOS
 
-purplOS is our stable vector OS.</br>
+purplOS is our stable Vector OS.</br>
 Here you can enjoy a good user experience, but without the bugs & experimental features of redOS.
 
 ## redOS
