@@ -18,3 +18,10 @@ redOS is our experimental Vector OS.</br>
 Our focus with redOS is to create and test experimental features that may take a while to complete, in an environment that doesn't need to have stable releases.</br>
 
 Things may break from time to time using redOS, but thats okay! Thats part of the process of making cool things.
+
+## Where can I download these OSes?
+
+The latest OTA of purplOS is available at: http://api.froggitti.net/ota/purplos/latest.ota
+The latest OTA of redOS is available at: http://api.froggitti.net/ota/purplos/red.ota
+
+You can also download the latest OTA from https://devsetup.froggitti.net.
