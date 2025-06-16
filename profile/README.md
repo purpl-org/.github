@@ -21,7 +21,7 @@ Things may break from time to time using redOS, but thats okay! Thats part of th
 
 ## Where can I download these OSes?
 
-The latest OTA of purplOS is available at: http://api.froggitti.net/ota/purplos/latest.ota</br>
-The latest OTA of redOS is available at: http://api.froggitti.net/ota/purplos/red.ota</br>
+The latest OTA of purplOS is available at: http://update-server.api.froggitti.net:81/latest/dev.ota</br>
+The latest OTA of redOS is available at: http://api.froggitti.net/ota/purpl/latest_redOS.ota</br>
 
 You can also download the latest OTA from https://devsetup.froggitti.net.
