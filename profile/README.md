@@ -7,12 +7,12 @@ We mostly work on vector and vector related projects, however we may work on som
 
 # Our projects
 
-## purplOS
+## [purplOS](https://github.com/purpl-org/purplOS)
 
 purplOS is our stable Vector OS.</br>
 Here you can enjoy a good user experience, but without the bugs & experimental features of redOS.
 
-## redOS
+## [redOS](https://github.com/purpl-org/redOS)
 
 redOS is our experimental Vector OS.</br>
 Our focus with redOS is to create and test experimental features that may take a while to complete, in an environment that doesn't need to have stable releases.</br>
